@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/drumakDev/yamete.git"
+    "url": "git+ssh://git@drumakDev/yamete_kudasai_sound.git"
   },
   "author": "Drumak",
   "license": "MIT",
@@ -18,9 +18,9 @@
     "yamate": "./dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/drumakDev/yamete"
+    "url": "https://github.com/drumakDev/yamete_kudasai_sound"
   },
-  "homepage": "https://github.com/drumakDev/yamete#readme",
+  "homepage": "https://github.com/drumakDev/yamete_kudasai_sound#readme",
   "dependencies": {
     "meow": "^8.1.2"
   },
